@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Weather from "./Weather";
+<link rel="stylesheet" href="App.css" />
 
 function App() {
   return (
